@@ -1,3 +1,3 @@
 _long_ legs
-*kind* heart
-_baker of *delicous* food_
+**kind** heart
+_baker of **delicous** food_
